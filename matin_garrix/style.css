@@ -185,6 +185,7 @@ body {
   float: right;
   font-size: 16px;
   padding: 5px 7px;
+  margin: 0.1em;
 }
 
 .button:hover {
